@@ -1,5 +1,5 @@
 {
-  "name": "federicoq/zulip-php",
+  "name": "fgendorf/zulip-php",
   "description": "Zuilip PHP Client",
   "keywords": ["zulip", "php", "chat", "bot"],
   "type": "library",
