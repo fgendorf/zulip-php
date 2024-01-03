@@ -9,13 +9,13 @@
     }
   },
   "require": {
-    "guzzlehttp/guzzle": "^6.3"
+    "guzzlehttp/guzzle": "^7.3"
   },
   "license": "MIT",
   "authors": [
     {
-      "name": "Federico Quagliotto",
-      "email": "federico.quagliotto@gmail.com"
+      "name": "Frederico Gendorf",
+      "email": "fgendorf@gmail.com"
     }
   ]
 }

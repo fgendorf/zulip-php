@@ -2,11 +2,14 @@
 
 We have been playing around with Zulip and noticed there was no a **good** PHP client... So we made another one!
 
+
+THIS VERSION support higher version of puzzle
+
 ## Installation
 
 Using composer!
 
-`composer require federicoq/zulip-php`
+`composer require fgendorf/zulip-php`
 
 ## Usage (italian only)
 
